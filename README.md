@@ -78,9 +78,7 @@ To access any project you are willing to view , please proceed like this:
 * Repeat with other files or projects
 
 
-## Author
 
-* **Pericles Adjovi** <[Pericles001](https://github.com/Pericles001)>
 
 ## Aknowledgements
 
