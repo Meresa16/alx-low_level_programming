@@ -53,12 +53,6 @@ Working with this project require you to have some tools installed:
 
 To access any project you are willing to view , please proceed like this:
 
-* clone the repository
-
-
-
-        - git clone https://github.com/Pericles001/alx-low_level_programming
-        - cd alx-low_level_programming
 
 
 * open your desired project (we take Hello world project as example)
